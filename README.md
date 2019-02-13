@@ -12,7 +12,7 @@ The implementation of the library is based on [RFC 6238](https://tools.ietf.org/
 
 ## Getting Started
 ```
-git clone https://github.com/_YOUR-USERNAME_/TOTP.git
+git clone https://github.com/alallk/TOTP.git
 ```
 
 or download the repo by browser
